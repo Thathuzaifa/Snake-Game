@@ -11,10 +11,23 @@ This is a classic **Snake Game** developed in Java using **Swing** and **AWT** l
 - GUI built with Java Swing and AWT
 
 ## 📸 Screenshots
-Game Screen :
+Game Screen : 
+
+
+
 ![image](https://github.com/user-attachments/assets/0cb02d77-c26c-4858-ba21-5e20eac3863e)
 
+
+
+
+
+
+---------------------------------------------------------------------------------------------
 Game Over Screen:
+
+
+
+
 ![image](https://github.com/user-attachments/assets/8fdedbdf-8280-4fc2-9f93-b3ce712cb6ed)
 
 
