@@ -1,6 +1,7 @@
+
 # 🐍 Snake Game in Java
 
-This is a classic **Snake Game** developed in Java using **Swing** and **AWT** libraries. 
+This is a simple yet classix **Snake Game** developed in Java using **Swing** and **AWT** libraries.
 
 ## 🎮 Features
 
@@ -9,29 +10,12 @@ This is a classic **Snake Game** developed in Java using **Swing** and **AWT** l
 - Game Over screen
 - Keyboard controls using arrow keys
 - GUI built with Java Swing and AWT
-- For the fun of it I used Spongebob as Snake and Pinapple as food.
 
 ## 📸 Screenshots
-Game Screen : 
+![Screenshot 2025-06-12 101117](https://github.com/user-attachments/assets/75f254f8-ec63-4c20-a309-53b6d4d3c08b)
 
-
-
-![image](https://github.com/user-attachments/assets/2502869d-2c2d-4bb8-ad38-273ba622b746)
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------
-Game Over Screen:
-
-
-
-
-![image](https://github.com/user-attachments/assets/e55c5fe8-e487-4fda-a4b6-4a13e5a3a99c)
-
+##
+![Screenshot 2025-06-12 101010](https://github.com/user-attachments/assets/10ede483-2a64-4421-998f-af1ed861d93d)
 
 
 
@@ -52,6 +36,33 @@ Game Over Screen:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Thathuzaifa/Snake-Game.git
-   cd src
-   SnakeGame.java
+   git clone https://github.com/your-username/snake-game-java.git
+   cd snake-game-java
+
+2. Compile the code:
+
+   ```bash
+   javac GameFrame.java
+   ```
+
+3. Run the game:
+
+   ```bash
+   java GameFrame
+   ```
+
+> Make sure all related classes (like `GameFrame`, `GamePanel`, `SnakeGame`, etc.) are in the same folder.
+
+## 📁 Project Structure
+
+```
+├── GameFrame.java
+├── GamePanel.java
+├── SnakeGame.java
+└── README.md
+```
+
+
+---
+
+Feel free to fork, modify, and enhance this game! Contributions are welcome 😊
