@@ -1,7 +1,7 @@
 
 # 🐍 Snake Game in Java
 
-This is a simple yet classix **Snake Game** developed in Java using **Swing** and **AWT** libraries.
+This is a simple yet classic **Snake Game** developed in Java using **Swing** and **AWT** libraries.
 
 ## 🎮 Features
 
